@@ -2,6 +2,7 @@
 Tic tac toe game
 
 Tic Tac Toe 게임을 간단하게 윈도우 응용프로그램으로 구현하였습니다.
+.Net Framework 4.0 이 필요합니다.
 
 ![실행화면](./img/tictactoe.png)
 
